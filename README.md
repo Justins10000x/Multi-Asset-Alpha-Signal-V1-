@@ -9,3 +9,5 @@ The use of T test statistics will be reviewed and appropirate changes in statist
 V2 is currently in the works, exploration of new variable inputs and data modeling structures remains to be this project's priority.
 
 
+
+For the full V2 update please refer to the V2 README
