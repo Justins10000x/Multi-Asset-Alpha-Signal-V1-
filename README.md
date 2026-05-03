@@ -10,4 +10,4 @@ V2 is currently in the works, exploration of new variable inputs and data modeli
 
 
 
-*For the full V2 update please refer to the V2 README
+*For the full V2 update please refer to the V2 README*
