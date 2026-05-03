@@ -1,4 +1,4 @@
-Welcome to version 1 of the Alpha generator, current inputs variables include: SPY, QQQ, IWM, VIX, TNX.
+Welcome to version 1 of the Alpha generator, current input variables include: SPY, QQQ, IWM, VIX, TNX.
 
 Our priority for the next update will aim to address the overfitting issues that's been observed in V1.
 
