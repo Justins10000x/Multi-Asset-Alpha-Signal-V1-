@@ -12,3 +12,5 @@ V2 is currently in the works, exploration of new variable inputs and data modeli
 
 
 **For the full V2 update please refer to the V2 README**
+
+**For the SPY signal please refer to the spy_strategy.py file**
