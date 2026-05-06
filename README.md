@@ -13,6 +13,6 @@ V2 will be the first model where the non confidential section within the researc
 
 
 
-**For the full V2 update please refer to the V2 README**
+**For full V2 updates please refer to the V2 README**
 
 
