@@ -8,7 +8,7 @@ For the signal identification framework refer to edge_scanner.py
 
 For the SPY signal execution framework refer to spy_strategy.py
 
-V2 will be the first model where the non confidential section within the research report will be made available for reading in the README.md file.
+V2 will be the first model where the public reading section within the research report will be made available for reading in the README.md file.
 
 
 
