@@ -1,16 +1,18 @@
+**Please note that this is the beta launch model, it should only be considered as an example template for this project's framework**
+
 Welcome to version 1 of the Alpha generator, current input variables include: SPY, QQQ, IWM, VIX, TNX.
 
-Our priority for the next update will aim to address the overfitting issues that's been observed in V1.
+No research report is availble for this model
 
-Signal recontruction Bugs that were observed in V1 will be updated, execution logic will also be reworked.
+For the signal identification framework refer to edge_scanner.py
 
-The use of T test statistics will be reviewed and appropirate changes in statistical modelling techniques will be implemented.
+For the SPY signal execution framework refer to spy_strategy.py
 
-V2 is currently in the works, exploration of new variable inputs and data modeling structures remains to be this project's priority.
+V2 will be the first model where the non confidential section within the research report will be made available for reading in the README.md file.
 
 
 
 
 **For the full V2 update please refer to the V2 README**
 
-**For the SPY signal please refer to the spy_strategy.py file**
+
